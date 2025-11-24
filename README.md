@@ -1,8 +1,5 @@
 # SentriAI — AI-Powered Early Dropout Prediction System (Prototype)
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)  
-[![Status](https://img.shields.io/badge/status-Prototype-orange.svg)]
-
 SentriAI is a lightweight, low-code prototype that simulates an early-warning system for student dropout risk. It combines synthetic data, AI-generated predictions, a compact admin dashboard, and design assets so schools can quickly evaluate the value of proactive student retention workflows.
 
 Table of Contents
